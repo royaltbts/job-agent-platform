@@ -1,3 +1,55 @@
+System Architecture Diagram (ASCII Version):                           
+                           
+                           ┌────────────────────────────┐
+                           │        Streamlit UI         │
+                           │  - Upload Resume            │
+                           │  - Paste Job Description    │
+                           │  - Trigger Automation       │
+                           └──────────────┬─────────────┘
+                                          │
+                                          ▼
+                       ┌────────────────────────────────────┐
+                       │      MULTI–LLM ROUTER (LLM Hub)     │
+                       │────────────────────────────────────│
+                       │ Routes requests to:                 │
+                       │  • Groq LLaMA                      │
+                       │  • Qwen / DeepSeek                 │
+                       │  • HuggingFace                     │
+                       │  • OpenAI (optional)               │
+                       └──────────────┬────────────────────┘
+                                      │
+              ┌───────────────────────┼──────────────────────────────┐
+              │                       │                              │
+              ▼                       ▼                              ▼
+   ┌─────────────────┐     ┌───────────────────┐         ┌───────────────────┐
+   │ Resume Optimizer │     │ Cover Letter Gen │         │ Recruiter Message │
+   │ (ATS rewriting)  │     │ (role-specific)  │         │  Generator        │
+   └─────────────────┘     └───────────────────┘         └───────────────────┘
+              │                       │                              │
+              └──────────────┬────────┼──────────────┬──────────────┘
+                             ▼        ▼               ▼
+                     ┌────────────────────────────────────┐
+                     │ SentenceTransformer Embeddings      │
+                     │ - Resume vector                     │
+                     │ - JD vector                         │
+                     │ - Match Score (0–100)               │
+                     └────────────────────┬────────────────┘
+                                          │
+                                          ▼
+                          ┌─────────────────────────────┐
+                          │   LinkedIn Auto-Apply Bot    │
+                          │ - Selenium Automation        │
+                          │ - Auto Upload Resume         │
+                          │ - Submit Easy Apply          │
+                          └─────────────────────────────┘
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bf9cd4a3-36de-48ed-8192-e93e7ab53a89" />
+
+
+
+
+
+
 ⭐ Job Agent Platform — Multi-Agent Job Search Automation
 AI-powered resume optimization, job matching, auto-apply bots, and recruiter messaging — all in one platform.
 
