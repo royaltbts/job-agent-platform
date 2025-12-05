@@ -1,0 +1,139 @@
+ARUN KUMAR SIRIPURAPU
+
+Analytics Manager | Operations Leader | Incentive Strategy Expert
+📍 Hyderabad | 📱 +91 9966584101 | ✉️ arunkumarsiripurapu@gmail.com
+ | https://www.linkedin.com/in/arunkumarsiripurapu/
+
+SUMMARY
+
+Senior analytics and operations leader with 10+ years of experience designing and scaling incentive frameworks, sales-force effectiveness models, segmentation engines, and performance analytics for global clients across technology, healthcare, and digital commerce. Expert in SQL, Power BI, KPI automation, resource optimization, incentive governance, call planning, and data-driven decision-making.
+Strong track record in leading cross-functional teams, improving productivity, automating workflows, and enabling compliant, insight-rich operations. Seeking roles in pharma commercial operations, incentive strategy, analytics leadership, or sales operations.
+
+CORE SKILLS & CAPABILITIES
+Incentive Management & SFE
+
+Incentive plan design, payout logic, modeling & simulation
+
+Territory alignment, call planning, rep segmentation
+
+Performance dashboards, KPI governance, behavioral analytics
+
+Data Analytics & BI
+
+Power BI dashboards & KPI automation
+
+SQL (Snowflake), ETL/validation workflows, Excel advanced modeling
+
+A/B testing, forecasting, business performance analytics
+
+Pharma & Commercial Operations
+
+Physician segmentation, prescription analytics
+
+Call adherence tracking, territory performance improvement
+
+Audit readiness, incentive governance, compliance controls
+
+Digital & Marketing Analytics
+
+Merchant/developer segmentation (Google Pay & Play)
+
+Attribution metrics, engagement analytics, funnel reporting
+
+Growth incentive modeling for digital ecosystems
+
+Process, Governance & Leadership
+
+SLA/KPI management, audit trails, documentation (BRD/FRD)
+
+Sprint planning (Agile), Jira/Confluence project leadership
+
+Mentoring analysts, stakeholder alignment, change management
+
+PROFESSIONAL EXPERIENCE
+Genpact — Operations Manager
+
+Apr 2014 – Present
+
+1. Google Pixel (Product & Hardware Sales Operations) — Manager
+
+Led incentive design, segmentation, territory planning, and KPI governance for global Pixel sales teams.
+
+Key Achievements
+
+Designed multi-tier incentive frameworks aligned with global sales priorities; improved rep productivity by 20%.
+
+Built segmentation and call planning models → 22% increase in rep coverage & 15% fewer missed opportunities.
+
+Automated ETL pipelines for incentive payout → 40% reduction in manual effort, 99.5% payout accuracy.
+
+Developed Power BI dashboards for conversion rates, target achievement & payout quality (used in QBRs).
+
+Increased stakeholder satisfaction by 25% through transparency and governance workflows.
+
+Mentored a team of 5 analysts, strengthening incentive modeling & analytics capability.
+
+2. Johnson & Johnson – Pharmaceuticals (Incentive Governance & SFE) — Manager
+
+Built prescribing-linked incentive frameworks, segmentation models, and performance analytics for multiple regions.
+
+Key Achievements
+
+Designed prescription-based incentive compensation models → 22% improvement in territory performance.
+
+Developed HCP segmentation (specialty, prescribing behavior, engagement) → 28% improvement in rep targeting efficiency.
+
+Designed call planning & route optimization → 20% rise in rep productivity & 12% reduction in missed calls.
+
+Built pharma-grade dashboards covering SoV, growth, compliance checks, payout accuracy.
+
+Achieved 100% audit readiness through governance workflows & controlled validation processes.
+
+Trained regional teams; received 95%+ satisfaction scores.
+
+3. Google Pay (Merchant Analytics & Incentive Strategy) — Manager / SME
+
+Designed frameworks to drive merchant acquisition, transaction growth, and ecosystem engagement.
+
+Key Achievements
+
+Built behavior-driven incentive models → 30% increase in merchant acquisition.
+
+Transaction-linked rewards delivered 25% growth in active transaction volume across key markets.
+
+Automated payout workflows → 45% reduction in processing time, ensured audit-ready documentation.
+
+Designed segmentation & targeted outreach workflows to reduce churn and improve activation quality.
+
+4. Google Play (Developer Incentive & Monetization Analytics) — Manager / SME
+
+Enabled developer engagement, monetization, and category growth through scalable incentive structures.
+
+Key Achievements
+
+Designed developer reward logic tied to downloads, engagement & revenue → 25% rise in developer activity.
+
+Improved monetization across key segments by 18% through optimized targeting strategies.
+
+Achieved 99.6% payout accuracy with automated pipelines & quality controls.
+
+Strengthened developer retention by 20% through structured reward and support models.
+
+EDUCATION
+
+Bachelor of Business Administration (Hons.)
+GITAM University, Visakhapatnam (2007–2011)
+
+ADDITIONAL CAPABILITIES
+
+Metadata & lineage documentation
+
+Presentation development & storytelling
+
+Compliance-aware data governance
+
+Cross-functional collaboration: Sales, Finance, Marketing, Medical Affairs
+
+DECLARATION
+
+I hereby declare that the information furnished is true to the best of my knowledge.
